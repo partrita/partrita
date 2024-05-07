@@ -16,6 +16,8 @@ One aspect of life that truly excites me is the pursuit of different perspective
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=partrita alt=partrita /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=partrita&show_icons=true&include_all_commits=true)](https://github.com/partrita/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=partrita&show_icons=true&include_all_commits=true)]()
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=partrita&layout=compact)](https://github.com/partrita/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=partrita)](https://github.com/anuraghazra/github-readme-stats)
