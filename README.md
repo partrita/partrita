@@ -6,11 +6,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-partrita-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/partrita/)](https://www.twitter.com/partrita/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://tomorrow-lab.github.io/)](tomorrow-lab.github.io/)
 
 <p align='left'>
-These days, I've been juggling quite a few roles - from being a busy biologist delving into the intricacies of life forms, to morphing into an artist over the weekends, where I find solace and creativity in my canvas and paints. Amidst these engagements, I also don the hat of a laid-back developer, tinkering with code at my own pace, allowing ideas to ferment slowly rather than rushing through them. And then there's my venture into the realm of publishing, where I bring forth my thoughts and discoveries in the form of books, sharing my insights with the world.
+These days, I'm balancing several roles: a biologist exploring life forms, an artist finding creativity in painting, a laid-back developer coding at my own pace, and a budding author sharing my thoughts through books.
 
-In terms of personality, I resonate with the concept of monomania, immersing myself deeply into subjects that capture my interest, exploring their depths with fervor. Yet, beneath this outward busyness lies an introverted soul, finding comfort in solitude and introspection, where thoughts can flow freely and creativity can flourish. I'm often regarded as a slow thinker, not because of any deficiency, but because I prefer to mull over ideas, allowing them to mature and evolve before reaching conclusions. This deliberate pace also allows me to appreciate the nuances and complexities of the world around me, finding beauty and intrigue in the details.
+I tend to dive deeply into subjects that fascinate me, taking my time to fully explore them. Though busy, I'm an introvert who enjoys solitude and reflection, allowing ideas to develop slowly. I’m often called a slow thinker, not because I struggle, but because I like to let thoughts mature before drawing conclusions. 
 
-One aspect of life that truly excites me is the pursuit of different perspectives. I relish the opportunity to challenge my own beliefs and assumptions, constantly seeking out alternative viewpoints that broaden my understanding of the world. Whether through literature, conversations, or personal experiences, I thrive on the diversity of ideas and the opportunity to see things from a fresh angle. It's this continuous exploration of perspectives that keeps my mind agile and my curiosity alive, driving me to delve deeper into the mysteries of life and human nature.
+I’m passionate about exploring different perspectives, always looking for new viewpoints to challenge my beliefs and broaden my understanding. This curiosity drives me to keep learning and exploring the world around me.
 </p>
 
 ## Some of my Github Stats
