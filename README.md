@@ -12,9 +12,10 @@ I tend to dive deeply into subjects that fascinate me, taking my time to fully e
 
 I’m passionate about exploring different perspectives, always looking for new viewpoints to challenge my beliefs and broaden my understanding. This curiosity drives me to keep learning and exploring the world around me.
 
+<a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The goal is to turn data into information, and information into insight.”— Carly Fiorina❞</i>
 <!--ENDS_HERE_QUOTE_README-->
+</a>
 </p>
 
 ## Some of my Github Stats
