@@ -11,6 +11,9 @@ These days, I'm balancing several roles: a biologist exploring life forms, an ar
 I tend to dive deeply into subjects that fascinate me, taking my time to fully explore them. Though busy, I'm an introvert who enjoys solitude and reflection, allowing ideas to develop slowly. I’m often called a slow thinker, not because I struggle, but because I like to let thoughts mature before drawing conclusions. 
 
 I’m passionate about exploring different perspectives, always looking for new viewpoints to challenge my beliefs and broaden my understanding. This curiosity drives me to keep learning and exploring the world around me.
+
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 </p>
 
 ## Some of my Github Stats
