@@ -7,7 +7,7 @@
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
+<i>❝“Make everything as simple as possible, but not simpler.”— Albert Einstein   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
