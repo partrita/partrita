@@ -17,12 +17,6 @@ I thrive on diverse perspectives, constantly seeking new viewpoints that challen
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=partrita alt=partrita /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=partrita&show_icons=true&include_all_commits=true&hide_rank=true)](https://github.com/partrita/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=partrita&layout=compact)](https://github.com/partrita/)
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=partrita&layout=compact)](https://github.com/partrita/)
-
 <!-- README-STATS:START -->
 <!-- README-STATS:END -->
 

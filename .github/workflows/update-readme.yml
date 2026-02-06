@@ -13,10 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: mahyarmirrashed/action-github-readme-stats@v1
+      - name: GitHub Profile Stats for README
+        uses: mahyarmirrashed/action-github-readme-stats@v2.1
         with:
           GITHUB_TOKEN: ${{ secrets.PAT }}
-          TIMEZONE: "America/Winnipeg"
+          TIMEZONE: "Asia/Seoul"
           FEATURES: "DAY_STATS,WEEK_STATS,LANGUAGE_STATS"
       - name: "Commit changes"
         run: |
