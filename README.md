@@ -1,25 +1,19 @@
-## Hey 👋, This is Taeyoon Kim
+# Hey 👋, This is Taeyoon Kim
 
 [![Gmail Badge](https://img.shields.io/badge/-deepthought@postech.ac.kr-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:deepthought@postech.ac.kr)](mailto:deepthought@postech.ac.kr)
 [![Linkedin Badge](https://img.shields.io/badge/-partrita-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/partrita/)](https://www.linkedin.com/in/partrita/) 
 [![Github Badge](https://img.shields.io/badge/-partrita-grey?style=flat&logo=github&logoColor=white&link=https://github.com/partrita/)](https://www.github.com/partrita/)
 [![Twitter Badge](https://img.shields.io/badge/-partrita-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/partrita/)](https://www.twitter.com/partrita/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://tomorrow-lab.github.io/)](https://tomorrow-lab.github.io/)
 
-<a href='https://github.com/marketplace/actions/quote-readme'>
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“Data levels all arguments.”— Anthony W. Richardson❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
-
 <p align='left'>
-These days, I'm balancing several roles: a biologist exploring life forms, an artist finding creativity in painting, a laid-back developer coding at my own pace, and a budding author sharing my thoughts through books.
+I wear many hats: a biologist unraveling the mysteries of life, an artist finding expression through painting, a developer who crafts code with intention, and an author-in-the-making sharing stories and insights.
 
-I tend to dive deeply into subjects that fascinate me, taking my time to fully explore them. Though busy, I'm an introvert who enjoys solitude and reflection, allowing ideas to develop slowly. I’m often called a slow thinker, not because I struggle, but because I like to let thoughts mature before drawing conclusions. 
+I find fulfillment in deep exploration, immersing myself in subjects that spark my curiosity. As an introvert, I cherish moments of solitude and reflection, where ideas have the space to take root and grow. I am often described as a 'slow thinker'—a label I embrace not as a sign of hesitation, but as a commitment to letting thoughts fully mature before they find their voice.
 
-I’m passionate about exploring different perspectives, always looking for new viewpoints to challenge my beliefs and broaden my understanding. This curiosity drives me to keep learning and exploring the world around me.
+I thrive on diverse perspectives, constantly seeking new viewpoints that challenge my own and broaden my understanding. This relentless curiosity is what drives me to keep learning, creating, and exploring the world around me.
 </p>
 
-## Some of my Github Stats
+# My GitHub Stats
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=partrita alt=partrita /> </p>
 
@@ -27,4 +21,16 @@ I’m passionate about exploring different perspectives, always looking for new 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=partrita&layout=compact)](https://github.com/partrita/)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ehottl&layout=compact)](https://github.com/partrita/)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=partrita&layout=compact)](https://github.com/partrita/)
+
+<!-- README-STATS:START -->
+<!-- README-STATS:END -->
+
+# Random Quotes
+
+<a href='https://github.com/marketplace/actions/quote-readme'>
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝“Data levels all arguments.”— Anthony W. Richardson❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+

@@ -1,0 +1,27 @@
+name: Update Readme
+
+on:
+  schedule:
+    - cron: "1 3 * * *" # best to run at random time of day
+  workflow_dispatch:
+
+jobs:
+  Update:
+    name: Update Stats
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: mahyarmirrashed/action-github-readme-stats@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+          TIMEZONE: "America/Winnipeg"
+          FEATURES: "DAY_STATS,WEEK_STATS,LANGUAGE_STATS"
+      - name: "Commit changes"
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update readme via actions" || echo "No changes to commit"
+          git push
