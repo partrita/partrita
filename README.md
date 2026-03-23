@@ -56,7 +56,7 @@ Dockerfile  	8      repos	███████░░░░░░░░░░░
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you have a procedure with ten parameters, you probably missed some.”— Alan Perlis  ❞</i>
+<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
