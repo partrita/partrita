@@ -17,6 +17,8 @@ I thrive on diverse perspectives, constantly seeking new viewpoints that challen
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=partrita alt=partrita /> </p>
 
+<p align="center"><img src="github-metrics.svg" alt="Metrics" width="100%"></p>
+
 <!-- README-STATS:START -->
 
 ```
@@ -52,7 +54,7 @@ HTML        	8      repos	██████░░░░░░░░░░░░
 
 <!-- README-STATS:END -->
 
-# Random Quotes
+# Random funny quotes
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
@@ -60,3 +62,10 @@ HTML        	8      repos	██████░░░░░░░░░░░░
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
+# Random jokes
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+# My streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=partrita" alt="mystreak"/>
